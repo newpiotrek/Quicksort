@@ -19,7 +19,7 @@ class Main {
         sortTest.printResult();*/
         sortTest.testQuickSort();
         // bla bla
-        // bla bla 13432432
+        // kurwa dziala
     }
 
     /**
