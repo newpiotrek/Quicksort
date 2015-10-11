@@ -18,8 +18,6 @@ class Main {
         sortNumbers.sort(sortTest.getNumbers());
         sortTest.printResult();*/
         sortTest.testQuickSort();
-        // bla bla
-        // kurwa dziala
     }
 
     /**
