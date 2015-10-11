@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f95cf25-124c-4c0a-8016-a01fc5b428fe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Quicksort.iws" />
@@ -124,7 +123,7 @@
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="false" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
@@ -487,12 +486,19 @@
       <option name="number" value="Default" />
       <updated>1444573969308</updated>
       <workItem from="1444573969667" duration="1773000" />
-      <workItem from="1444575758372" duration="1795000" />
+      <workItem from="1444575758372" duration="1880000" />
     </task>
+    <task id="LOCAL-00001" summary="fsdfaa">
+      <created>1444577591088</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1444577591088</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3568000" />
+    <option name="totallyTimeSpent" value="3653000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -543,6 +549,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fsdfaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="fsdfaa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
